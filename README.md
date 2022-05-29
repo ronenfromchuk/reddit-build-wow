@@ -1,9 +1,11 @@
 🔗 https://reddit-clone-ronenfromchuk.vercel.app/
-https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/205146/logo-light.png
-https://miro.medium.com/max/1400/1*mFNmwiH8FJ-xUN1RXj-o-w.jpeg
-https://console.dev/img/favicons/stepzen.com.png
-https://reshetech.co.il/assets/img/js/typescript/typescript_scripting_language_tutorial.png
-https://avatars.githubusercontent.com/u/6412038?s=280&v=4
+
+![1_mFNmwiH8FJ-xUN1RXj-o-w](https://user-images.githubusercontent.com/90146636/170878890-9aa825b0-c645-4e09-b400-15b07ade7ba1.jpg)
+![logo-light](https://user-images.githubusercontent.com/90146636/170878899-d03169fb-a881-45f4-b0d1-73c999673863.png)
+![stepzen com](https://user-images.githubusercontent.com/90146636/170878909-6caaafc7-e914-400e-ae97-2e6e0cbf4649.png)![typescript_scripting_language_tutorial](https://user-images.githubusercontent.com/90146636/170878913-18f1d2e6-f138-480e-8db3-8099c5de04c6.png)![6412038](https://user-images.githubusercontent.com/90146636/170878915-bacf5912-f451-431b-9714-4a267ebc5ed8.png)
+
+
+
 
 
 # Next.js + Tailwind CSS Example
